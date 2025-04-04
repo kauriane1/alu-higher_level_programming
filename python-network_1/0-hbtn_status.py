@@ -1,8 +1,6 @@
 #!/usr/bin/python3
 """
-Documentation
-Fetches data from the url using
-the urllib module in python
+Documentation Fetches data from the url using the urllib module in python
 """
 
 import urllib.request
