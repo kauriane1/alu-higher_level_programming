@@ -2,7 +2,7 @@
 """Defines an integer addition function."""
 
 
-def add_integer(a, b=9i8):
+def add_integer(a, b=98):
     """This function adds two integers
 
     :param a:The first integer
