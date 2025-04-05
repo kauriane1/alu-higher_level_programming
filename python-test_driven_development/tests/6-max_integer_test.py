@@ -1,5 +1,5 @@
-
-n documentation"""
+#!/usr/bin/python3
+"""Function documentation"""
 
 
 import unittest
